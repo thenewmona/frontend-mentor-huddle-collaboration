@@ -30,3 +30,4 @@ https://help.github.com/en/articles/creating-a-new-organization-from-scratch
 
 https://stackoverflow.com/questions/40159478/fork-clone-and-push-a-wiki-in-github
 
+https://bolajiayodeji.com/vc/how-to-test-a-pull-request-locally-before-merging/
